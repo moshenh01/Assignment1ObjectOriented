@@ -4,11 +4,12 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+
 class GroupAdminTest {
 
 
     @Test
-    void register() {
+    void testRegister() {
         GroupAdmin ga = new GroupAdmin();
         ConcreteMember moshe = new ConcreteMember();
         ga.register(moshe);
@@ -27,7 +28,7 @@ class GroupAdminTest {
     }
 
     @Test
-    void insert() {
+    void testInsert() {
         GroupAdmin ga = new GroupAdmin();
         ga.append("yom tov");
         ga.insert(7," gver");

@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class ConcreteMemberTest {
 
+
     @Test
     void update() {
         GroupAdmin ga = new GroupAdmin();
