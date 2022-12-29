@@ -47,7 +47,7 @@ implement the sender in groopAdmin class,
 and the member in concrete member class.
 the groopAdmin goal is to make a messege and update the members of that msg.  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -83,7 +83,7 @@ we use maven to track the memory system footprint(mamory changes behind the senc
    <img src="D648FB7F-85ED-4D01-BAAB-05B2F077443E.jpeg" alt="Logo" width="400" height="400">
       
      3.this is after the test we append and insert some strings, and we can see that memory added to
-      oure list "string" line.
+      oure list "string" line of the string in oure StringBilder.
    <img src="53B7BF3D-E6BD-4B10-ADA8-8C78649F420E.jpeg" alt="Logo" width="400" height="400">
    <img src="72D933A8-2785-4986-A424-43D63F7BA583.jpeg" alt="Logo" width="400" height="400">
      
@@ -95,18 +95,7 @@ we use maven to track the memory system footprint(mamory changes behind the senc
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Made by moshe nahshon and yogev ofir 
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
